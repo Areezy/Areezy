@@ -1,9 +1,9 @@
 ### Hi, I am Lekan 🧑🏿‍💻👋🏿
 
-- I am a Full-Stack Software Engineer that enjoys building cool MERN stuff ✨✨
-- As you can tell from my github repos I write more languages than I can speak but please do not ask me to write python 🤝🏿
-- I enjoy writing JavaScript and I am currently getting more familiar with [reactJS](https://reactjs.org/) 🏹
-- Visit my [personal website](https://areezy.github.io/) if you've got a minute but it is getting rebuilt soon with some fancy new static site tech I have my eye on. 👀💎
+- I am a Full-Stack Software Engineer that enjoys building cool MERN stuff. ✨✨
+- As you can tell from my github repos I write more languages than I can speak but please do not ask me to write python. 🤝🏿
+- I enjoy writing JavaScript and building Tech for the Web. 🏹
+- Visit my [personal website.](https://olamilekan.vercel.app/) 💎
 
 <!--
 **Areezy/Areezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
