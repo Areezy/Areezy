@@ -1,7 +1,7 @@
 ### Hi, I am Lekan 🧑🏿‍💻👋🏿
 
 - I am a Full-Stack Software Engineer that enjoys building cool MERN stuff. ✨✨
-- As you can tell from my github repos I write more languages than I can speak but please do not ask me to write python. 🤝🏿
+- As you can tell from my github repos I write more languages than I can speak. 🤝🏿
 - I enjoy writing JavaScript and building Tech for the Web. 🏹
 - Visit my [personal website.](https://olamilekan.vercel.app/) 💎
 
