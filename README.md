@@ -3,7 +3,7 @@
 - I am a Full-Stack Software Engineer that enjoys building cool MERN stuff. ✨✨
 - As you can tell from my github repos I write more languages than I can speak. 🤝🏿
 - I enjoy writing JavaScript and building Tech for the Web. 🏹
-- Visit my [personal website.](https://olamilekan.vercel.app/) 💎
+- Visit my [personal website.](https://www.olamilekan.tech) 💎
 
 <!--
 **Areezy/Areezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
